@@ -11,6 +11,7 @@ namespace ConsoleApp31
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world 5678!");
+            Console.WriteLine("Hello world 123!");
         }
     }
 }
